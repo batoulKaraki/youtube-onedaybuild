@@ -30,7 +30,6 @@ class Model {
             
             if error != nil || data == nil {
                 
-                print("hello")
                 return
             }
             
